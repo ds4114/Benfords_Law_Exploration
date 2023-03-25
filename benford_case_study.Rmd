@@ -2,7 +2,7 @@
 
 # Benford Case Study
 
-Abhiram Gaddam, Devan Samant
+Devan Samant, Abhiram Gaddam
 
 ```{r}
 library(benford.analysis)  #install.packages("benford.analysis")
