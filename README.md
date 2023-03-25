@@ -1,2 +1,4 @@
 # Benfords_Law_Exploration
-An exploration of benfords law for anomaly detection
+An exploration of Benford's Law for anomaly detection
+
+There is a niche area of the consulting industry called forensic analytics in which analysts try to identify risks and quantify wrongdoing using an array of statistical and data techniques. For example, imagine a whistleblower notifies a company's general counsel that there has been some collusion between sales and finance representatives to artificially create invoices. The company may hire forensic analysts to extract and determine what is happening. There are many quantitative and qualitative methods to perform before concluding anything and they will need to be specific to the context of the project. One such heuristic is Benford's Law. Benford’s law (also known as the first digit law) states that the leading digits in many data sets are probably going to be small. A dataset needs to abide by certain properties, but if so most numbers in the set (about 30%) will have a leading digit of 1. This code explains and explores this concept and its usefulness in detecting anomalies or malicious manipulation of data.
